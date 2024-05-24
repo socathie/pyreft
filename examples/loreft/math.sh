@@ -1,4 +1,4 @@
-python train.py -task math \
+python test.py -task math \
 -data_dir dataset \
 -model yahma/llama-7b-hf \
 -seed 42 \
